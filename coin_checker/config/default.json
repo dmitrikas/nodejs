@@ -1,0 +1,12 @@
+{
+    "Coinmarket": {
+        "url" : "https://api.coinmarketcap.com/v1/ticker/bitcoin/",
+        "update_second": 1
+    },    
+    "price_precision" : 4,
+    "date_format" : "mm:ss",
+    "Cexio" : {
+        "apiKey" : "YOUR-API-KEY",
+        "apiSecret" : "YOUR-API-SECRET"
+    }
+}
